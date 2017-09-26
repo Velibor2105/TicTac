@@ -1,0 +1,5 @@
+D:\TestWork\Tic-Tac\TicTac3\bin\Debug\TicTac3.dll
+D:\TestWork\Tic-Tac\TicTac3\bin\Debug\TicTac3.pdb
+D:\TestWork\Tic-Tac\TicTac3\obj\Debug\TicTac3.dll
+D:\TestWork\Tic-Tac\TicTac3\obj\Debug\TicTac3.pdb
+D:\TestWork\Tic-Tac\TicTac3\obj\Debug\TicTac3.csprojResolveAssemblyReference.cache
